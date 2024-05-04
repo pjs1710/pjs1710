@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20fontSize=90&desc=JaeSeong's GitHub Profile&descSize=30&" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjs1710&label=Profile%20views&color=0e75b6&style=plastic" alt="pjs1710" /> </p>
 

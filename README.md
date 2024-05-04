@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20&desc=%20%20%20JaeSeong's%20GitHub%20Profile&descSize=15&height=50&fontSize=80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hello%20&desc=%20%20%20JaeSeong's%20GitHub%20Profile&descSize=15&fontSize=80"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjs1710&label=Profile%20views&color=0e75b6&style=plastic" alt="pjs1710" /> </p>

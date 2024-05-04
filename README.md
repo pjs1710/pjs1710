@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm JaeSeong Park</h1>
-<h3 align="center">A passionate backend developer from South Korea</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjs1710&label=Profile%20views&color=0e75b6&style=plastic" alt="pjs1710" /> </p>
 

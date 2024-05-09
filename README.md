@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjs1710&label=Profile%20views&color=0e75b6&style=plastic" alt="pjs1710" /> </p>
 
-- 🔭 I’m currently working on [BaekJoon](https://github.com/pjs1710/BaekJoon.git) / [Tripster-Project](https://github.com/pjs1710/Tripster-Project.git) / [Springboot-JPA](https://github.com/pjs1710/Springboot-JPA.git)
+- 🔭 I’m currently working on [BaekJoon](https://github.com/pjs1710/BaekJoon.git) / [Tripster-Project](https://github.com/pjs1710/Tripster-Project.git) / [Springboot-JPA](https://github.com/pjs1710/Springboot-JPA.git) / [Java-Inflearn](https://github.com/pjs1710/Java_Inflearn.git)
 
 - 🌱 I’m currently learning **Linux, Java, Springboot etc..**
 

@@ -3,7 +3,7 @@
 
 😄 안녕하세요 ! 현재 백엔드 개발 취업을 위해 Java, Spring을 공부하고 있습니다 ‼
 
-<h3 align="left">✉Connect with me:</h3>
+<h3 align="left">🍀 Connect with me 🔻</h3>
 <p align="left">
 <a href="https://instagram.com/j_5eong2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_5eong2" height="30" width="40" /></a>
 </p>

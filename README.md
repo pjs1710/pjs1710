@@ -13,4 +13,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pjs1710&" alt="pjs1710" /></p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)

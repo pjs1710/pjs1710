@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjs1710&show_icons=true&theme=graywhite)

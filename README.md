@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Jae%20Seong's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Jae%20Seong's%20GitHub&fontSize=80)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BackEnd+Web+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=D4F7F3&background=FFFFFF00&center=true&vCenter=true&width=1000&size=30&lines=BackEnd+Web+%26+Server+Developer)](https://git.io/typing-svg)
+
 ### 💻 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjs1710&show_icons=true&theme=graywhite)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timer973)](https://solved.ac/timer973/)

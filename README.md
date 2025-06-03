@@ -7,7 +7,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timer973)](https://solved.ac/timer973/)
 
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=gradle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)

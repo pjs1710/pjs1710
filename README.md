@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=D4F7F3&background=FFFFFF00&center=true&vCenter=true&width=1000&size=30&lines=BackEnd+Web+%26+Server+Developer)](https://git.io/typing-svg)
 
-### 💻 My Stats
+## 💻 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjs1710&show_icons=true&theme=graywhite)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timer973)](https://solved.ac/timer973/)
 
 
-### 🛠 Languages and Skills
+## 🛠 Languages and Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=gradle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
@@ -19,7 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjs1710&layout=compact)
 
-### ✉ Contact With Me
+## ✉ Contact With Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaeseong1710@gmail.com)](mailto:jaeseong1710@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:timer973@naver.com)](mailto:timer973@naver.com)
 

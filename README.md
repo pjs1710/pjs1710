@@ -4,8 +4,6 @@
 
 ## 💻 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjs1710&show_icons=true&theme=graywhite)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=timer973)](https://solved.ac/timer973/)
-
 
 ## 🛠 Languages and Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
